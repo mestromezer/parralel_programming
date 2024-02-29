@@ -1,0 +1,3 @@
+﻿  MatrixMultyply.cpp
+E:\PP\1\cpp\MatrixMultyply\MatrixMultyply\MatrixMultyply.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MatrixMultyply.vcxproj -> E:\PP\1\cpp\MatrixMultyply\MatrixMultyply\x64\Debug\MatrixMultyply.exe
